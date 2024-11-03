@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litleWY&label=Profile%20views&color=0e75b6&style=flat" alt="litleWY" /> </p>
 
-- 🌱 I’m currently learning **Generative Model, Self-supervised Learning and relative courses etc.**
-
 - 📫 How to reach me **wy15937060806@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
